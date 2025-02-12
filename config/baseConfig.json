@@ -1,0 +1,8 @@
+{
+  "rewardApi": "https://rewards.morpho.org/v1",
+  "prizeVaults": [
+    { "boosterAddress": "0xa7ed0503649c367e48dF8c2aBEa171F495c5754e" },
+    { "boosterAddress": "0xD96E5d5B67c7EaE5554F0d4B96a2088274c103Fa" },
+    { "boosterAddress": "0x7B3D452d23846244fEA4E2DcB4EA4B63528D6029" }
+  ]
+}
